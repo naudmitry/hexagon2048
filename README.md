@@ -25,7 +25,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-##What is realized?
+## What is realized?
 
 1. Have to render a game hexagonal field with hexagons according to the game size.\
 2. Required game size is 2. Existence of other game levels (3, 4, ...) is highly appreciated but NOT REQUIRED.\
